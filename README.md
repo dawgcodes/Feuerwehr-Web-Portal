@@ -19,7 +19,7 @@ Verantwortlich für das Feuerwehr Web Portal ist die **Reedroux LLC**.
 
 Die Entwicklung und Betreuung des Projekts erfolgt maßgeblich durch:
 
-- Dominik Hofmann, SA - ZSA (cPanel-, Plesk- und Imunify360-zertifizierter Systemadministrator)(Privatperson) 
+- Dominik Hofmann, SA - ZSA (cPanel-, Plesk- und Imunify360-zertifizierter Systemadministrator, Privatperson)
 - David Ian Black (Privatperson)
 
 ---
