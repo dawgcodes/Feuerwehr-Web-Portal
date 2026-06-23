@@ -8,7 +8,19 @@ Jedes Modul kann einzeln aktiviert werden — eine Wehr ohne Jugendfeuerwehr akt
 > **Aktuelle Version: v1.3.2**
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Unterst%C3%BCtzen-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/dawgcodes)
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Unterst%C3%BCtzen-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/
+dawgcodes)
+
+---
+
+## Verantwortlich / Eigentümer
+
+Verantwortlich für das Feuerwehr Web Portal ist die **Reedroux LLC**.
+
+Die Entwicklung und Betreuung des Projekts erfolgt maßgeblich durch:
+
+- Dominik Hofmann (Privatperson)
+- David Ian Black (Privatperson)
 
 ---
 
@@ -99,7 +111,7 @@ Kein Compiler, kein Build-Schritt, kein Cloud-Account — deine Daten bleiben be
 **Mit PostgreSQL (Standard, empfohlen für Einsteiger):**
 ```bash
 git clone https://github.com/dawgcodes/feuerwehradminpanel.git
-cd FeuerwehrHub && cp .env.example .env
+cd feuerwehradminpanel && cp .env.example .env
 # DB_PASSWORD, JWT_SECRET, ENCRYPTION_KEY und FF_NAME in .env anpassen
 docker compose up -d
 ```
@@ -252,7 +264,7 @@ Feuerwehr Web Portal steht unter der **GNU Affero General Public License v3 (AGP
 - Wer Feuerwehr Web Portal als Dienst anbietet, muss den vollständigen Quellcode offenlegen ✅
 - Eine Umbenennung und der Verkauf als eigenes Produkt ist **nicht erlaubt** ❌
 
-&copy; 2026 Patrick Faust
+&copy; 2026 Reedroux LLC
 
 ---
 
@@ -274,7 +286,8 @@ Wer das Projekt unterstützen möchte, kann das gerne über Ko-Fi tun:
 
 ## Copyright & Kontakt
 
-&copy; 2026 Patrick Faust
+&copy; 2026 Reedroux LLC
 
 Fragen, Feedback oder Kontakt:
 **support@reedroux.com**
+
